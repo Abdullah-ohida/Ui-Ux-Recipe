@@ -466,4 +466,8 @@ section{
     .flex-item{
         width: 300px;  
     }
+
+    .small{
+        display: none;
+    }
 }
