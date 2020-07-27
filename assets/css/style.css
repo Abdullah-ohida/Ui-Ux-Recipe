@@ -153,6 +153,11 @@ input{
     overflow: hidden;
 }
 
+ .recipe-flex .small{
+    width: 0%;
+    border-radius: 4px 0 0px 4px;
+}
+
 .photo{
     max-width: 100%;
     width: 130px;
