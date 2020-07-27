@@ -311,7 +311,7 @@ section{
 .prepare p{
     font-size: 0.7rem;
     text-transform: capitalize;
-    color: rgb(173, 173, 173);
+    color: rgb(199, 198, 198);
     text-align: center;
 }
 
@@ -334,7 +334,7 @@ section{
 
 .ingen p{
     font-size: 0.7rem;
-    color: rgb(173, 173, 173);
+    color: rgb(138, 137, 137);
     font-weight: lighter;
     word-spacing: 0.10rem;
     line-height: 1.4;
@@ -458,7 +458,6 @@ section{
     }
     
     .flex-item{
-        width: 300px;
-        
+        width: 300px;  
     }
 }
