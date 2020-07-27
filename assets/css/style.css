@@ -433,7 +433,8 @@ section{
 }
 
 .flex-item-3 button{
-    background-color: transparent;
+    background-color: rgb(255, 165, 0, 0.5);
+    box-shadow: 5px 3px 3px rgb(255, 165, 0, 0.5);
     border: 1px solid black;
     padding: 0rem 0.8rem;
     border-radius: 5px;
